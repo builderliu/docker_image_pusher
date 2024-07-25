@@ -21,3 +21,6 @@ kong
 influxdb
 storm
 tensorflow/tensorflow
+node:lts-alpine
+nginx:stable-alpine
+
