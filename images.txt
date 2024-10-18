@@ -23,4 +23,5 @@ storm
 tensorflow/tensorflow
 node:lts-alpine
 nginx:stable-alpine
+openjdk:8
 
