@@ -25,5 +25,6 @@
 #nginx:stable-alpine
 #openjdk:8
 #kibana
-mongo
+kibana:7.17.25
+#mongo
 
