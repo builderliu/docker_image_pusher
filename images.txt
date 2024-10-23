@@ -24,4 +24,6 @@ tensorflow/tensorflow
 node:lts-alpine
 nginx:stable-alpine
 openjdk:8
+kibana
+mongo
 
