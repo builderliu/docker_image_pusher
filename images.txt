@@ -8,22 +8,22 @@
 
 
 #add 0716
-apache/hadoop:2.10.2
-ubuntu/kafka:latest
-apache/hive:3.1.3
-flink:scala_2.12-java8
-spark:python3-java17
-wcjiang/reference
-memcached
-haproxy
-traefik
-kong
-influxdb
-storm
-tensorflow/tensorflow
-node:lts-alpine
-nginx:stable-alpine
-openjdk:8
-kibana
+#apache/hadoop:2.10.2
+#ubuntu/kafka:latest
+#apache/hive:3.1.3
+#flink:scala_2.12-java8
+#spark:python3-java17
+#wcjiang/reference
+#memcached
+#haproxy
+#traefik
+#kong
+#influxdb
+#storm
+#tensorflow/tensorflow
+#node:lts-alpine
+#nginx:stable-alpine
+#openjdk:8
+#kibana
 mongo
 
