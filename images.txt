@@ -25,6 +25,17 @@
 #nginx:stable-alpine
 #openjdk:8
 #kibana
-kibana:7.17.25
+#kibana:7.17.25
 #mongo
 
+
+#for mall
+#mysql:5.7
+redis
+#nginx
+#rabbitmq
+elasticsearch:7.17.3
+logstash:7.17.3
+kibana:7.17.3
+#mongo
+#minio
