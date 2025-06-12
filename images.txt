@@ -49,4 +49,6 @@ rabbitmq:3.12-management
 #linuxserver/code-server
 
 
-imagenarium/hbase-master:1.4.5_2
+#imagenarium/hbase-master:1.4.5_2
+
+postgres:13
