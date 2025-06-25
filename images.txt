@@ -53,4 +53,6 @@ rabbitmq:3.12-management
 
 #postgres:13
 
-jhao104/proxy_pool
+#jhao104/proxy_pool
+
+python:3.6-alpine
