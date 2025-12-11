@@ -46,4 +46,10 @@
 #python:3.6-alpine
 #python:3.13-slim-bullseye
 #postgresql
-zookeeper
+#zookeeper
+busybox
+neo4j
+influxdb
+traefik
+ai/qwen3
+
