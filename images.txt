@@ -46,5 +46,4 @@
 #python:3.6-alpine
 #python:3.13-slim-bullseye
 #postgresql
-bitnami/kafka:latest
-bitnami/zookeeper:latest
+zookeeper
