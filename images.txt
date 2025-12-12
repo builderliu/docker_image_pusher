@@ -54,5 +54,7 @@
 #pingcap/pd:latest
 #pingcap/tikv:latest
 #pingcap/tidb:latest
-python:3.10-slim
+#python:3.10-slim
+nginx:alpine                                                                                                                     21.7s 
+node:18-alpine 
 
