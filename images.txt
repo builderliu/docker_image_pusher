@@ -47,9 +47,12 @@
 #python:3.13-slim-bullseye
 #postgresql
 #zookeeper
-busybox
-neo4j
-influxdb
-traefik
-ai/qwen3
+#busybox
+#neo4j
+#influxdb
+#traefik
+pingcap/pd:latest
+pingcap/tikv:latest
+pingcap/tidb:latest
+
 
