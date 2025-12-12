@@ -51,8 +51,8 @@
 #neo4j
 #influxdb
 #traefik
-pingcap/pd:latest
-pingcap/tikv:latest
-pingcap/tidb:latest
-
+#pingcap/pd:latest
+#pingcap/tikv:latest
+#pingcap/tidb:latest
+python:3.10-slim
 
