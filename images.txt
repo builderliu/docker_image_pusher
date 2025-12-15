@@ -56,5 +56,6 @@
 #pingcap/tidb:latest
 #python:3.10-slim
 #nginx:alpine                                                                                                                     21.7s 
-node:18-alpine 
+#node:18-alpine 
+maven:3.8.5-openjdk-8-slim
 
