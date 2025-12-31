@@ -58,5 +58,12 @@
 #nginx:alpine                                                                                                                     21.7s 
 #node:18-alpine 
 #maven:3.8.5-openjdk-8-slim
-gcc:trixie
+#gcc:trixie
 
+## 20251231
+apache/hive:4.0
+bitnami/spark:3.5
+flink:1.18
+trinodb/trino:424
+apache/airflow:2.7
+prom/prometheus:latest
