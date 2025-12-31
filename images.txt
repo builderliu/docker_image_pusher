@@ -63,7 +63,7 @@
 ## 20251231
 apache/hive:4.2.0
 apache/spark:r
-pache/flink:latest
+apache/flink:latest
 trinodb/trino:latest
 apache/airflow:slim-latest
 ubuntu/prometheus:3-24.04_stable
